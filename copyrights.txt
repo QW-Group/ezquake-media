@@ -34,7 +34,7 @@ game/gfx/ttl_main.png	unknown	unknown	-
 game/gfx/ttl_sgl.png	unknown	unknown	-
 game/gfx/vidmodes.png	unknown	unknown	-
 game/levelshots.pk3	unknown	unknown	-
-game/locs.pk3	unknown	unknown	-
+game/locs.pk3	flintheart	unknown	-
 game/progs/flame0.mdl	unknown	unknown	-
 game/radars/aerowalk.png		unknown	unknown	-
 game/radars/dm2.png			unknown	unknown	-
@@ -69,7 +69,7 @@ game/textures/scrollbars/arrow_down.png	unknown	unknown	-
 game/textures/scrollbars/arrow_up.png	unknown	unknown	-
 game/textures/scrollbars/slidebg.png	unknown	unknown	-
 game/textures/scrollbars/slider.png	unknown	unknown	-
-game/textures/shellmap.tga	unknown	unknown	-
+game/textures/shellmap.tga	Electro	unknown	-
 game/textures/shockwavetex.png	unknown	unknown	-
 game/textures/sky1_alpha.png	unknown	unknown	-
 game/textures/sky1_solid.png	unknown	unknown	-
