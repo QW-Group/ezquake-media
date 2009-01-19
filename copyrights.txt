@@ -102,8 +102,8 @@ game/textures/wad/face_p2.png		PrimeviL	QRTP	-
 game/textures/wad/face_p3.png		PrimeviL	QRTP	-
 game/textures/wad/face_p4.png		PrimeviL	QRTP	-
 game/textures/wad/face_p5.png		PrimeviL	QRTP	-
-game/textures/wad/face_quad.png		unknown	unknown	-
-game/textures/wad/ibar.png		unknown	unknown	-
+game/textures/wad/face_quad.png		PrimeviL	unknown	-
+game/textures/wad/ibar.png		PrimeviL	unknown	-
 game/textures/wad/inv2_lightng.png	unknown	unknown	-
 game/textures/wad/inv2_nailgun.png	unknown	unknown	-
 game/textures/wad/inv2_rlaunch.png	unknown	unknown	-
