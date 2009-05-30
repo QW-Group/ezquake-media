@@ -34,7 +34,6 @@ game/gfx/ttl_main.png			unknown	unknown	-
 game/gfx/ttl_sgl.png			unknown	unknown	-
 game/gfx/vidmodes.png			unknown	unknown	-
 game/levelshots.pk3				Up2nOgOoD[ROCK]	unknown	-
-game/locs.pk3					flintheart	unknown	-
 game/progs/flame0.mdl			unknown	unknown	-
 game/radars/aerowalk.png		Cokeman		CCA_2.0	-
 game/radars/dm2.png			Cokeman		CCA_2.0	-
@@ -192,3 +191,4 @@ game/textures/zing1.png			unknown	unknown	-
 installer/ezinst.ico			nsis contributors	zlib/libpng	cuky
 installer/left.bmp			nsis contributors	zlib/libpng	cuky
 installer/top.bmp			nsis contributors	zlib/libpng	cuky
+game/locs/*.loc				flintheart, others...	gnu gpl 2	-
