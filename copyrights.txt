@@ -87,7 +87,7 @@ game/textures/wad/anum_8.png		unknown		QRTP?	-
 game/textures/wad/anum_9.png		unknown		QRTP?	-
 game/textures/wad/anum_minus.png	unknown		QRTP?	-
 game/textures/wad/backtile.png		unknown	unknown	-
-game/textures/wad/disc.png		PrimeviL	CC-BY-NC-SA_3.0	-
+game/textures/wad/disc.png		unknown	unknown	-
 game/textures/wad/face1.png		PrimeviL	CC-BY-NC-SA_3.0	-
 game/textures/wad/face2.png		PrimeviL	CC-BY-NC-SA_3.0	-
 game/textures/wad/face3.png		PrimeviL	CC-BY-NC-SA_3.0	-
