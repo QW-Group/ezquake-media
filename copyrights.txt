@@ -191,6 +191,7 @@ game/textures/zing1.png			unknown	unknown	-
 installer/ezinst.ico			nsis contributors	zlib/libpng	cuky
 installer/left.bmp			nsis contributors	zlib/libpng	cuky
 installer/top.bmp			nsis contributors	zlib/libpng	cuky
+installer/ezquake_logo.png	cuky	CC-BY-NC-ND_3.0	-
 game/locs/*.loc				flintheart, others...	gnu gpl 2	-
 game/textures/bmodels/simple_b_*.tga	PrimeviL	CC-BY-NC-ND_3.0	-
 game/textures/models/simple_*.tga	PrimeviL	CC-BY-NC-ND_3.0	-
