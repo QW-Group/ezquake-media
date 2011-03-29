@@ -195,3 +195,4 @@ installer/ezquake_logo.png	cuky	CC-BY-NC-ND_3.0	-
 game/locs/*.loc				flintheart, others...	gnu gpl 2	-
 game/textures/bmodels/simple_b_*.tga	PrimeviL	CC-BY-NC-ND_3.0	-
 game/textures/models/simple_*.tga	PrimeviL	CC-BY-NC-ND_3.0	-
+game/textures/tracker	Michal "_KaszpiR_" Sochon	CC-BY-NC-ND_3.0	-
