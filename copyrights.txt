@@ -12,7 +12,7 @@ game/gfx/box_tr.png			unknown	unknown	-
 game/gfx/complete.png			unknown	unknown	-
 game/gfx/conback.png			Cuky	unknown	-
 game/gfx/conchars-cyr.lmp		unknown	unknown	-
-game/gfx/cursor.lmp			unknown	unknown	-
+game/gfx/cursor.lmp			RaRe	unknown	- (converted from cursor.png)
 game/gfx/cursor.png			RaRe	unknown	-
 game/gfx/inter.png			unknown	unknown	-
 game/gfx/loading.png			unknown	unknown	-
